@@ -1,0 +1,18 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="C:/Program Files/nodejs/node.exe" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.7739837" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="LAST_INJECTED_LANGUAGE" value="ApacheConfig" />
+    <property name="PhpStorm.InitialConfiguration" value="true" />
+    <property name="erlang.last.update.timestamp" value="1604297191039" />
+    <property name="file.chooser.recent.files" value="J:/wamp64/www/play-authenticate&#10;J:/wamp64/www/laravel&#10;J:/wamp64/www/laravel8multiauth-master/laravel8multiauth-master&#10;J:/wamp64/www/laravel8multiauth-master&#10;J:/wamp64/www/basket&#10;J:/wamp64/www/buy/app/Http/Controllers/HomeController.php&#10;J:/wamp64/www/buy&#10;J:/wamp64/www/gama&#10;C:/wamp64/www/dokan&#10;J:/wamp64/www/dokan&#10;J:/dokan&#10;J:/wamp64/www/mohavateapp&#10;J:/wamp64/www/webshop&#10;C:/wamp64/www/arayesh&#10;C:/wamp64/www/mohavate&#10;C:/wamp64/www&#10;C:/wamp64/www/mohavateapp&#10;C:/composer/composer.phar&#10;C:/wamp64/www/ara&#10;J:/wamp64/www/proje&#10;J:/wamp64/www/proje/.gitignore&#10;C:/Users/USER/Downloads/Composer-Setup(1).exe&#10;C:/Program Files (x86)/ComposerSetup/userdata.dll&#10;J:/wamp64/www/arayeshbank&#10;J:/wamp64/www/welearn&#10;J:/wamp64/www&#10;J:/wamp64/www/shaarchi&#10;J:/wamp64/www/uv3006&#10;J:/wamp64/www/welern&#10;J:/wamp64/www/ecommerce" />
+    <property name="file.gist.reindex.count" value="531921" />
+    <property name="fileTypeChangedCounter" value="3" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+  </component>
+</application>

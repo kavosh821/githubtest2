@@ -1,0 +1,12 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="sqlite" type=".env file" />
+      <mapping pattern=".databse.sqlite.swp" type="Native" />
+      <mapping pattern="download (1)" type="PLAIN_TEXT" />
+      <mapping ext="woff" type="Twig" />
+      <mapping pattern="env" type="YAML" />
+      <mapping pattern=".database.sqlite" type="yarn.lock" />
+    </extensionMap>
+  </component>
+</application>
