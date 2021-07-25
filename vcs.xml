@@ -30,6 +30,10 @@
           <option name="url" value="https://github.com/ColorlibHQ/AdminLTE.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:kavosh821/githubtest2.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="J:\wamp64\www" />
